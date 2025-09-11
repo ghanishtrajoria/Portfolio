@@ -33,6 +33,6 @@ A clean and responsive clone of the ExpressVPN landing page, built using only HT
 ---
 ## 🙋‍♂️ Author
 
-- **Jai Kumar**
-- [GitHub Profile](https://github.com/jaikumar992)
+- **Ghanisht rajoria**
+- [GitHub Profile](https://github.com/ghanishtrajoria)
 

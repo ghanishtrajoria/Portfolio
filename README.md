@@ -6,7 +6,7 @@ A clean and responsive clone of the ExpressVPN landing page, built using only HT
 
 ## 📸 Demo
 
-![Demo GIF](./images/gif.gif)   
+![Demo GIF](./images/gif2.gif)   
 *You can also view the live site here:*  
 🔗 [Live Site](https://jaikumar992.github.io/Portfolio/)
 <!-- Replace with your actual GitHub Pages link -->
